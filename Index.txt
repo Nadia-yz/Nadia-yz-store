@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>متجر العبايات</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>متجر العبايات</h1>
+    <nav>
+      <a href="cart.html">🛒 السلة</a>
+    </nav>
+  </header>
+
+  <main id="product-list">
+    <!-- سيتم تعبئة المنتجات تلقائيًا -->
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
